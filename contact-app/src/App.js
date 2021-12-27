@@ -1,4 +1,21 @@
-import logo from './logo.svg';
+import React, { Component } from 'react';
+import PhoneForm from './components/PhoneForm';
+
+class App extends Component {
+  render() {
+    return (
+      <div>
+        <PhoneForm />
+      </div>
+    );
+  }
+}
+
+export default App;
+
+
+
+/*import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -23,3 +40,4 @@ function App() {
 }
 
 export default App;
+*/
