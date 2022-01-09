@@ -8,7 +8,7 @@ class App extends Component {
     information: [
       {
         id: 0,
-        name: '이승현',
+        name: '이산도',
         phone: '010-0000-0000'
       },
       {

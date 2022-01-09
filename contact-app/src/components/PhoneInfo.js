@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class PhoneInfo extends Component {
   static defaultProps = {
     info: {
-      name: '홍길동',
+      name: '이산도',
       phone: '010-0000-0000',
       id: 0
     }
